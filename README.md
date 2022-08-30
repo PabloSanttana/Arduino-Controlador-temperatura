@@ -36,8 +36,8 @@ Curso Engenharia de Computação na Universidade Federal do Rio Grande do Norte 
 
 
 ### Imagem Projeto
-![layoutGif](https://github.com/PabloSanttana/Arduino-Relogio-digital/blob/main/image.png)
+![layoutGif](https://github.com/PabloSanttana/Arduino-Controlador-temperatura/blob/main/image.png)
 
 ### Link para ver em funcionamento
 
-- [Projeto](https://www.tinkercad.com/things/8YJkhYezptq?sharecode=nEF_Nwfwm1WdPvQwmrcfyrt-0HkSyN3T3qefTpyxnMY)      
+- [Projeto](https://www.tinkercad.com/things/dwUwo7MNqHj?sharecode=JcEZpP9ujDUqD_HCEKbT6YglL1HvfQ_FpiuHG_FrZCw)      
